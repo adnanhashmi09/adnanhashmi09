@@ -1,4 +1,3 @@
-<img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" align="center" width="100%" />
 <h1 align="center">Hi 👋, I'm Adnan Hashmi</h1>
 <h3 align="center">A passionate fullstack blockchain developer from India</h3> <br/>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" align="right" width="400px"/>
@@ -25,9 +24,6 @@
 
 <h3 align="left">My Github Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanhashmi09&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="adnanhashmi09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnanhashmi09&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="adnanhashmi09" /></p>
-
-
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=adnanhashmi09&show_icons=true&theme=dracula&locale=en" alt="adnanhashmi09" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanhashmi09&show_icons=true&theme=dracula&locale=en&layout=compact" alt="adnanhashmi09" />
