@@ -3,7 +3,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" align="right" width="400px"/>
 <p align="left"> <a href="https://twitter.com/vivacetempo" target="blank"><img src="https://img.shields.io/twitter/follow/vivacetempo?logo=twitter&style=for-the-badge" alt="vivacetempo" /></a> </p>
 
-- 🔭 I’m currently working on [a gasless NFT marketplace](https://crypto-chasm.vercel.app/)
+- 🔭 I’m currently working on [An NFT based warranty system](https://github.com/adnanhashmi09/Mithra)
 
 - 🌱 I’m currently learning **Rust and Solana development**
 
