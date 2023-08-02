@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Adnan Hashmi</h1>
-<h3 align="center">A passionate fullstack blockchain developer from India</h3> <br/>
+<h3 align="center">A passionate Fullstack Software Developer</h3> <br/>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" align="right" width="400px"/>
 <p align="left"> <a href="https://twitter.com/vivacetempo" target="blank"><img src="https://img.shields.io/twitter/follow/vivacetempo?logo=twitter&style=for-the-badge" alt="vivacetempo" /></a> </p>
 
-- 🔭 I’m currently working on [An NFT based warranty system](https://github.com/adnanhashmi09/Mithra)
+- 🔭 I’m currently working on creating my own large language model like GPT from scratch.
 
-- 🌱 I’m currently learning **Rust and Solana development**
+- 🌱 I’m currently learning **Rust and Machine Learning**
 
-- 💬 Ask me about **MERN, Blockchain and Web3.0**
+- 💬 Ask me about **Fullstack finesse – front-end, back-end, and everything in between.**
 
-- 📫 How to reach me **hashmi.adnan791@gmail.com**
+- 📫 How to reach me **mail@adnanhashmi.in**
 
-- ⚡ Fun fact **I am a cat person**
+- ⚡ Fun fact **I love metal music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
