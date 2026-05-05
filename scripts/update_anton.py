@@ -55,18 +55,18 @@ def fmt(hours):
 
 def state_for(hours):
     if hours is None:
-        return ("mystery", "Anton is in a quantum state. Commit something to collapse the wavefunction.")
+        return ("mystery", "Grandson of Anton is in a quantum state. Commit something to collapse the wavefunction.")
     if hours < 24:
-        return ("happy", f"Anton just ate. Last commit {fmt(hours)} ago. Glowing.")
+        return ("happy", f"Grandson of Anton just ate. Last commit {fmt(hours)} ago. Glowing.")
     if hours < 48:
-        return ("content", f"Anton is content. Last fed {fmt(hours)} ago.")
+        return ("content", f"Grandson of Anton is content. Last fed {fmt(hours)} ago.")
     if hours < 72:
-        return ("hungry", f"Anton is getting hungry. {fmt(hours)} since last commit.")
+        return ("hungry", f"Grandson of Anton is getting hungry. {fmt(hours)} since last commit.")
     if hours < 120:
-        return ("sad", f"Anton is sad. It has been {fmt(hours)}. He keeps glancing at the door.")
+        return ("sad", f"Grandson of Anton is sad. It has been {fmt(hours)}. He keeps glancing at the door.")
     if hours < 168:
-        return ("dying", f"Anton is barely conscious. {fmt(hours)} without food. Push something. Anything.")
-    return ("dead", f"Anton has perished. {fmt(hours)} of neglect. He will revive on your next commit.")
+        return ("dying", f"Grandson of Anton is barely conscious. {fmt(hours)} without food. Push something. Anything.")
+    return ("dead", f"Grandson of Anton has perished. {fmt(hours)} of neglect. He will revive on your next commit.")
 
 
 # All faces and auras use BMP-only chars (no surrogate pairs needed).
@@ -115,7 +115,7 @@ def update_readme(svg_path, status_text, mood):
 
     block = (
         "<!-- ANTON:START -->\n"
-        "## Meet Anton\n\n"
+        "## Meet Grandson of Anton\n\n"
         f"<img src=\"./anton.svg\" alt=\"Anton the Tamagotchi - {mood}\" width=\"400\"/>\n\n"
         f"> {status_text}\n\n"
         "_Anton is a capybara who lives off Adnan's commits. Push code to feed him. "
