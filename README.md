@@ -1,15 +1,19 @@
-<h1 align="left">Hi 👋, I'm Adnan Hashmi</h1>
-<h3 align="left">A passionate Fullstack Software Developer</h3> <br/>
+<h1 align="left">Adnan Hashmi</h1>
 
-- 🔭 I love low-level stuff.
+<p align="left">
+  <em>systems tinkerer &nbsp;&bull;&nbsp; web builder &nbsp;&bull;&nbsp; future game dev</em>
+</p>
 
-- 💬 Ask me about **Fullstack finesse – front-end, back-end, and everything in between.**
+<p align="left">
+  I write Python and Rust. I care about how things work under the hood &mdash;<br/>
+  the kind of person who reads compiler output for fun.<br/>
+  Currently plotting a video game between metal albums and cat interruptions.
+</p>
 
-- 📫 How to reach me **mail@adnanhashmi.in**
-
-- ⚡ Fun fact **I love metal music**
-
-- 🌐 [My portfolio website](https://www.adnanhashmi.in/)
+<p align="left">
+  <a href="mailto:mail@adnanhashmi.in">mail@adnanhashmi.in</a> &nbsp;&bull;&nbsp;
+  <a href="https://www.adnanhashmi.in/">adnanhashmi.in</a>
+</p>
 
 <!-- ANTON:START -->
 ## Meet Anton
