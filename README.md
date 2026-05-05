@@ -12,11 +12,11 @@
 </p>
 
 <!-- ANTON:START -->
-## Meet Grandson of Anton
+## Meet Anton
 
-<img src="./anton.svg" alt="Grandson of Anton the Tamagotchi - happy" width="400"/>
+<img src="./anton.svg" alt="Anton the Tamagotchi - happy" width="400"/>
 
-> Grandson of Anton just ate. Last commit 2m ago. Glowing.
+> Anton just ate. Last commit 1m ago. Glowing.
 
-_Grandson of Anton is a capybara who lives off Adnan's commits. Push code to feed him. Sad after 3 days, dying after 5, dead after 7. He revives on the next commit._
+_Anton is a capybara who lives off Adnan's commits. Push code to feed him. Sad after 3 days, dying after 5, dead after 7. He revives on the next commit._
 <!-- ANTON:END -->
