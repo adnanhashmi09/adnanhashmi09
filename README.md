@@ -1,13 +1,9 @@
 <h1 align="left">Adnan Hashmi</h1>
 
 <p align="left">
-  <em>systems tinkerer &nbsp;&bull;&nbsp; web builder &nbsp;&bull;&nbsp; future game dev</em>
-</p>
-
-<p align="left">
-  I write Python and Rust. I care about how things work under the hood &mdash;<br/>
-  the kind of person who reads compiler output for fun.<br/>
-  Currently plotting a video game between metal albums and cat interruptions.
+  Software engineer with a thing for systems internals. I like knowing what actually happens
+  beneath the abstractions &mdash; the kind of curiosity that leads to reading kernel docs at midnight.<br/><br/>
+  When I'm not writing code, I'm on the football pitch or parked in front of the gaming PC.
 </p>
 
 <p align="left">
