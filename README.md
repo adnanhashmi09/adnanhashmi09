@@ -12,11 +12,11 @@
 - 🌐 [My portfolio website](https://www.adnanhashmi.in/)
 
 <!-- ANTON:START -->
-## Meet Anton 🚦
+## Meet Anton
 
-<img src="./anton.svg" alt="Anton the Tamagotchi" width="400"/>
+<img src="./anton.svg" alt="Anton the Tamagotchi - happy" width="400"/>
 
-> Anton is waiting for his first real update. GitHub Actions will feed him soon.
+> Anton just ate. Last commit 6m ago. Glowing.
 
 _Anton is a capybara who lives off Adnan's commits. Push code to feed him. Sad after 3 days, dying after 5, dead after 7. He revives on the next commit._
 <!-- ANTON:END -->
