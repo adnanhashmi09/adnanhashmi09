@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm Adnan Hashmi</h1>
 <h3 align="left">A passionate Fullstack Software Developer</h3> <br/>
-<!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" align="right" width="400px"/> -->
-<!-- <p align="left"> <a href="https://twitter.com/vivacetempo" target="blank"><img src="https://img.shields.io/twitter/follow/vivacetempo?logo=twitter&style=for-the-badge" alt="vivacetempo" /></a> </p> -->
 
 - 🔭 I love low-level stuff.
 
@@ -12,3 +10,13 @@
 - ⚡ Fun fact **I love metal music**
 
 - 🌐 [My portfolio website](https://www.adnanhashmi.in/)
+
+<!-- ANTON:START -->
+## Meet Anton 🚦
+
+<img src="./anton.svg" alt="Anton the Tamagotchi" width="400"/>
+
+> Anton is waiting for his first real update. GitHub Actions will feed him soon.
+
+_Anton is a capybara who lives off Adnan's commits. Push code to feed him. Sad after 3 days, dying after 5, dead after 7. He revives on the next commit._
+<!-- ANTON:END -->
