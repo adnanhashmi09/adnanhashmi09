@@ -16,7 +16,7 @@
 
 <img src="./anton.svg" alt="Anton the Tamagotchi - sad" width="400"/>
 
-> Grandson of Anton is sad. It has been 3d. He keeps glancing at the door.
+> Grandson of Anton is sad. It has been 4d. He keeps glancing at the door.
 
 _Anton is a capybara who lives off Adnan's commits. Push code to feed him. Sad after 3 days, dying after 5, dead after 7. He revives on the next commit._
 <!-- ANTON:END -->
