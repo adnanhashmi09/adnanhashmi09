@@ -14,9 +14,9 @@
 <!-- ANTON:START -->
 ## Meet Grandson of Anton
 
-<img src="./anton.svg" alt="Anton the Tamagotchi - sad" width="400"/>
+<img src="./anton.svg" alt="Anton the Tamagotchi - dying" width="400"/>
 
-> Grandson of Anton is sad. It has been 4d. He keeps glancing at the door.
+> Grandson of Anton is barely conscious. 5d without food. Push something. Anything.
 
 _Anton is a capybara who lives off Adnan's commits. Push code to feed him. Sad after 3 days, dying after 5, dead after 7. He revives on the next commit._
 <!-- ANTON:END -->
